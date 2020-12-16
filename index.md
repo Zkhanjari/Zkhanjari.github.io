@@ -23,7 +23,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 <!-- Sidebar with image -->
 
 <!-- Hidden Sidebar (reveals when clicked on menu icon)-->
-<nav class="w3-sidebar w3-black w3-animate-right w3-xxlarge" style="display:none;padding-top:150px;right:0;z-index:2" id="mySidebar">
+<!--<nav class="w3-sidebar w3-black w3-animate-right w3-xxlarge" style="display:none;padding-top:150px;right:0;z-index:2" id="mySidebar">
   <a href="javascript:void(0)" onclick="closeNav()" class="w3-button w3-black w3-xxxlarge w3-display-topright" style="padding:0 12px;">
     <i class="fa fa-remove"></i>
   </a>
@@ -33,7 +33,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
     <a href="#about" class="w3-bar-item w3-button w3-text-grey w3-hover-black" onclick="closeNav()">About</a>
     <a href="#contact" class="w3-bar-item w3-button w3-text-grey w3-hover-black" onclick="closeNav()">Contact</a>
   </div>
-</nav>
+</nav>-->
 
 <!-- Page Content -->
 <div>
@@ -51,9 +51,16 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
     <p>Ecole Nationale des sciences appliquées Eljadida</p>
     <img src="me.PNG" class="w3-image w3-hide-large w3-hide-small w3-round" style="display:block;width:20%;margin:auto;">
    <!-- <img src="/w3images/profile_girl.jpg" class="w3-image w3-hide-large w3-hide-medium w3-round" width="1000" height="1333"> -->
-    <a href="KHANJARI Zineb (1).pdf" download> <button class="w3-button w3-light-grey w3-padding-large w3-margin-top">
+    <a href="KHANJARIZineb-english.pdf" download> <button class="w3-button w3-light-grey w3-padding-large w3-margin-top">
 
-      <i class="fa fa-download"></i> Download Resume 
+      <i class="fa fa-download"></i> Download Resume -english
+      
+    
+    </button></a>
+     <a href="KHANJARI Zineb-frensh.pdf" download> <button class="w3-button w3-light-grey w3-padding-large w3-margin-top">
+
+      <i class="fa fa-download"></i> Download Resume -frensh
+      
     
     </button></a>
   </header>
@@ -86,11 +93,11 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
   
 
   <!-- About Section -->
-  <div class="w3-content w3-justify w3-text-grey w3-padding-32" id="about">
+  <!--<div class="w3-content w3-justify w3-text-grey w3-padding-32" id="about">
     <h2>About</h2>
     <hr class="w3-opacity">
     <p>Hello!I am Zineb khanjari 
-    </p>
+    </p>-->
    <!-- <h3 class="w3-padding-16">My Skills</h3>
     <p class="w3-wide">Python for data</p>
     <div class="w3-light-grey">
@@ -130,11 +137,9 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 
     <!-- Testimonials -->
     <h3 class="w3-padding-24">My Certifications</h3>
+
     <!--<a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">Toggle Content</a>
 
-<div class="collapse mg-t-5" id="collapseExample">
-  hi
-</div><-->
     <!--<img src="/w3images/avatar_smoke.jpg" alt="Avatar" class="w3-left w3-circle w3-margin-right" style="width:80px">-->
      <!--<p><span class="w3-large w3-text-black w3-margin-right">Chandler Bing.</span> Web Designer.</p>
     <p>Jane Doe is just awesome. I am so happy to have met her!</p><br>
@@ -196,7 +201,6 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
     <hr class="w3-opacity">
 
     <div class="w3-section">
-      <p><i class="fa fa-map-marker fa-fw w3-xxlarge w3-margin-right"></i>Safi,Morocco</p>
       <p><i class="fa fa-phone fa-fw w3-xxlarge w3-margin-right"></i> Phone: +212682204330</p>
       <p><i class="fa fa-envelope fa-fw w3-xxlarge w3-margin-right"> </i> Email: zkhanjari4@gmail.com</p>
     </div>
