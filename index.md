@@ -44,8 +44,8 @@ header {
  <img src="me.PNG" style=" border-radius: 50%;margin-left:500PX;"></div>
   <!-- Menu icon to open sidebar -->
 
-  <span class="w3-button w3-top w3-white w3-xxlarge w3-text-grey w3-hover-text-black" style="width:auto;right:0;" onclick="openNav()"><i class="fa fa-bars"></i></span>
-
+  <!--<span class="w3-button w3-top w3-white w3-xxlarge w3-text-grey w3-hover-text-black" style="width:auto;right:0;" onclick="openNav()"><i class="fa fa-bars"></i></span>--
+>
   <!-- Header -->
   <header class="w3-container w3-center" style="padding:128px 16px" id="home" style="margin-left:40%">
    
