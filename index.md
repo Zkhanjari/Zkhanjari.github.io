@@ -1,5 +1,5 @@
 <html>
-<title>zineb khanjari</title>
+<title>KHANJARI Zineb</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
  
@@ -16,6 +16,9 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
   background-size: cover;
  
   min-height: 100%;
+}
+header {
+  display: none;
 }
 </style>
 <body>
@@ -47,9 +50,9 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
   <header class="w3-container w3-center" style="padding:128px 16px" id="home" style="margin-left:40%">
    
     <h1 class="w3-jumbo"><b>Khanjari Zineb</b></h1>
-    <p>Elève ingenieur en génie informatique et téchnologies émergentes</p>
-    <p>Ecole Nationale des sciences appliquées Eljadida</p>
-    <img src="me.PNG" class="w3-image w3-hide-large w3-hide-small w3-round" style="display:block;width:20%;margin:auto;">
+    <p>IT Engineering Student</p>
+    <center>
+    <img src="me.png" class="w3-image w3-hide-large w3-hide-small w3-round" style="display:block;width:20%;margin:auto;"></center>
    <!-- <img src="/w3images/profile_girl.jpg" class="w3-image w3-hide-large w3-hide-medium w3-round" width="1000" height="1333"> -->
     <a href="KHANJARIZineb-english.pdf" download> <button class="w3-button w3-light-grey w3-padding-large w3-margin-top">
 
@@ -135,15 +138,15 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
       <i class="fa fa-download"></i> Download Resume
     </button>-->
 
-    <!-- Testimonials -->
-    <h3 class="w3-padding-24">My Certifications</h3>
+    <!-- Testimonials 
+   <!-- <h3 class="w3-padding-24">My Certifications</h3>-->
 
     <!--<a class="btn btn-primary" data-toggle="collapse" href="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample">Toggle Content</a>
 
     <!--<img src="/w3images/avatar_smoke.jpg" alt="Avatar" class="w3-left w3-circle w3-margin-right" style="width:80px">-->
      <!--<p><span class="w3-large w3-text-black w3-margin-right">Chandler Bing.</span> Web Designer.</p>
     <p>Jane Doe is just awesome. I am so happy to have met her!</p><br>
-   -->
+  
     <!--<img src="/w3images/bandmember.jpg" alt="Avatar" class="w3-left w3-circle w3-margin-right" style="width:80px">
     <p><span class="w3-large w3-text-black w3-margin-right">Chris Fox.</span> CEO at Mighty Schools.</p>
     <p>Jane Doe saved us from a web disaster.</p><br>
@@ -193,7 +196,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
     
     
   <!-- End About Section -->
-  </div>
+
 
   <!-- Contact Section -->
   <div class="w3-padding-32 w3-content w3-text-grey" id="contact" style="margin-bottom:64px">
