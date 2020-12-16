@@ -41,19 +41,14 @@ header {
 <!-- Page Content -->
 <div>
 <div class="w3-main w3-padding-large" >
- <img src="me.PNG" style=" border-radius: 50%;margin-left:500PX;"></div>
-  <!-- Menu icon to open sidebar -->
-
-  <!--<span class="w3-button w3-top w3-white w3-xxlarge w3-text-grey w3-hover-text-black" style="width:auto;right:0;" onclick="openNav()"><i class="fa fa-bars"></i></span>--
->
-  <!-- Header -->
+ <img src="me.png" style=" border-radius: 50%;margin-left:500PX;"></div>
   <header class="w3-container w3-center" style="padding:128px 16px" id="home" style="margin-left:40%">
    
     <h1 class="w3-jumbo"><b>Khanjari Zineb</b></h1>
     <p>IT Engineering Student</p>
     <center>
     <img src="me.png" class="w3-image w3-hide-large w3-hide-small w3-round" style="display:block;width:20%;margin:auto;"></center>
-   <!-- <img src="/w3images/profile_girl.jpg" class="w3-image w3-hide-large w3-hide-medium w3-round" width="1000" height="1333"> -->
+
     <a href="KHANJARIZineb-english.pdf" download> <button class="w3-button w3-light-grey w3-padding-large w3-margin-top">
 
       <i class="fa fa-download"></i> Download Resume -english
@@ -67,6 +62,11 @@ header {
     
     </button></a>
   </header>
+  <!-- Menu icon to open sidebar -->
+
+  <!--<span class="w3-button w3-top w3-white w3-xxlarge w3-text-grey w3-hover-text-black" style="width:auto;right:0;" onclick="openNav()"><i class="fa fa-bars"></i></span>-->
+  <!-- Header -->
+ 
 
   <!-- Portfolio Section -->
   <!--  <div class="w3-padding-32 w3-content" id="portfolio">
